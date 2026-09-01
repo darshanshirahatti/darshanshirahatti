@@ -40,5 +40,6 @@ My work includes data analytics, ETL pipelines, machine learning, dashboards, an
 ## 📫 Connect With Me
 
 - GitHub: [@darshanshirahatti](https://github.com/darshanshirahatti)
-- LinkedIn: Add your LinkedIn profile link here
-- Email: Add your professional email here
+- LinkedIn: (https://www.linkedin.com/in/darshansrt/)
+- Email: darshanshirahatti07@gmail.com
+- Contact Number : 7795232865
