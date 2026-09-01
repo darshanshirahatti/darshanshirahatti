@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Darshan Shirahatti 👋
 
-<!--
-**darshanshirahatti/darshanshirahatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about building data-driven applications and practical AI solutions.  
+My work includes data analytics, ETL pipelines, machine learning, dashboards, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- 📊 Analyze data and create meaningful visualizations
+- 🤖 Explore machine-learning models and real-world AI applications
+- 🧠 Train, evaluate, and improve machine-learning models
+- ⚙️ Build ETL pipelines for clean, structured data
+- 💻 Create web applications and interactive dashboards
+- 📈 Transform raw data into actionable insights
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, JavaScript, HTML, CSS  
+**Data & ML:** Pandas, NumPy, Scikit-learn, Machine Learning  
+**Tools:** Git, GitHub, Jupyter Notebook, Power BI  
+**Domains:** Data Analytics, ETL, Artificial Intelligence, Machine Learning, Web Development
+
+---
+
+## 📌 Featured Projects
+
+- **Nifty100 Analytics** — Stock-market analytics and visualization platform.
+- **Bluestock ETL** — Financial-data ETL pipeline for analytics and reporting.
+- **ResQ-AI** — AI-powered emergency assistance and medical guidance platform.
+- **AI Traffic Monitoring Dashboard** — Intelligent traffic analysis and congestion monitoring.
+- **Student Study Planner** — Web application for academic planning and task management.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@darshanshirahatti](https://github.com/darshanshirahatti)
+- LinkedIn: Add your LinkedIn profile link here
+- Email: Add your professional email here
